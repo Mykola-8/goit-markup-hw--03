@@ -52,6 +52,7 @@ img {
 .header-nav {
   display: flex;
   align-items: center;
+  margin: auto;
 }
 .header-nav-menu {
   font-weight: 500;
@@ -136,9 +137,7 @@ address {
   background-color: #2e2f42;
   padding: 188px 0;
 }
-.hero .container {
-  padding: 0 301px;
-}
+
 .hero-button:hover,
 .hero-button:focus {
   background-color: #404bbf;
